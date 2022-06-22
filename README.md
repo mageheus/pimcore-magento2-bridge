@@ -27,7 +27,7 @@ This module is compatible with Pimcore >= 10.0.0.
 
 ## <a name="installing"></a>Installing/Getting started	
 - Open your Pimcore
-- Install Pimcore 5 Module Magento 2 Integration via composer ```composer require mageheus/pimcore-magento2-bridge```
+- Install Pimcore X Module Magento 2 Integration via composer ```composer require mageheus/pimcore-magento2-bridge```
 - Enable bundle by running  ```bin/console pimcore:bundle:enable DivanteMagentoIntegrationBundle```
 - Clear cache by running ```bin/console cache:clear --no-warmup```
 - Install Bundle by running ```bin/console pimcore:bundle:install DivanteMagentoIntegrationBundle```
