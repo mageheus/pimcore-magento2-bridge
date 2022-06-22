@@ -22,6 +22,7 @@
   ],
   "require": {
     "php": ">=8.0",
+    "mageheus/pimcore-magento2-bridge": "master@dev",
     "ext-json": "*",
     "pimcore/pimcore": "^10.0"
   },
